@@ -71,7 +71,7 @@
       "react-app/jest"
     ]
   },
-  "proxy": "https://medical-e-app.vercel.app/",
+  "proxy": "https://medistorepro.vercel.app/",
   "browserslist": {
     "production": [
       ">0.2%",
